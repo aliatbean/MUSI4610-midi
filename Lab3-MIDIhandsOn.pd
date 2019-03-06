@@ -187,6 +187,7 @@
 #X text 26 598 Rachael Hazlett;
 #X text 125 597 Alice Clair;
 #X text 27 576 MUSI 4610 - MIDI and Subtractive Synthesis;
+#X obj 646 549 loadbang;
 #X connect 0 0 1 0;
 #X connect 0 1 1 1;
 #X connect 1 0 2 0;
@@ -314,3 +315,4 @@
 #X connect 121 0 124 0;
 #X connect 122 0 119 0;
 #X connect 123 0 122 0;
+#X connect 129 0 117 0;
